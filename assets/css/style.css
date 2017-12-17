@@ -1,0 +1,16 @@
+body {
+	background-image: url(../images/dust_scratches.png);
+}
+
+h1 {
+	text-align:center;
+	font-size:36px;
+}
+
+button {
+	background-color:#85e0e0;
+}
+
+#addMovie {
+	background-color:#85e0e0;
+}
