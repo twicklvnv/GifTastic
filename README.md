@@ -17,6 +17,8 @@ Try using a loop that appends a button for each string in the array.
 When the user clicks on a button, the page should grab 10 static, non-animated gif images from the GIPHY API and place them on the page.
 When the user clicks one of the still GIPHY images, the gif should animate. If the user clicks the gif again, it should stop playing.
 
+![giftastic1](https://user-images.githubusercontent.com/30394249/38773203-2ccff67a-4004-11e8-89ef-2062bd2381d8.jpg)
+
 Under every gif, display its rating (PG, G, so on).
 
 
